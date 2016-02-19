@@ -46,10 +46,10 @@ int main()
     LS.WriteChar(7);
    
 	LS.WriteChar(145);
-	LS.WriteChar(255);
-	LS.WriteChar(156);
-	LS.WriteChar(255);
-	LS.WriteChar(156);
+	LS.WriteChar(0);
+	LS.WriteChar(64);
+	LS.WriteChar(0);
+	LS.WriteChar(64);
 	
 
 

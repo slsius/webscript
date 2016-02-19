@@ -14,6 +14,8 @@
 #define         DEVICE_PORT             "/dev/ttyO1"                         // ttyS0 for linux
 #endif
 
+
+using namespace std;
 int main()
 {
     serialib LS;                                                            // Object of the serialib class
